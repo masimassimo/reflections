@@ -1,0 +1,3 @@
+Q:What happens when you initialize a repository? Why do you need to do it?
+
+A:When I initialize a repostitory git creates .git directory i need it to create that directory that contains meta data.
