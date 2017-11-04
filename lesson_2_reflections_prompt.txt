@@ -4,4 +4,4 @@ A:When I initialize a repostitory git creates .git directory i need it to create
 
 Q:How is staging area different from the working directory and the repository? What value do you think it offers?
 
-A:I think that staging is something that keeps the modified files separated from originals before we committ all the changes
+A:I think that staging is something that keeps the modified files separated from originals before we committ all the change.
