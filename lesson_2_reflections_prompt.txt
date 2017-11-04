@@ -1,3 +1,7 @@
 Q:What happens when you initialize a repository? Why do you need to do it?
 
 A:When I initialize a repostitory git creates .git directory i need it to create that directory that contains meta data.
+
+Q:How is staging area different from the working directory and the repository? What value do you think it offers?
+
+A:I think that staging is something that keeps the modified files separated from originals before we committ all the changes
