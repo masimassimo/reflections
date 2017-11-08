@@ -13,3 +13,7 @@ A:I can see the changes with the git diff --staged, in this way i will have the 
 Q:What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
 A:I think that branches would be helpful when i want to try some features without modify the original project. They can help me keeping separated the files.
+
+Q:How do the diagrams help you visualize the branch structure?
+
+A:I think that with the diagrams i can look to the "history" of the repository, and where the project took othes ways.
