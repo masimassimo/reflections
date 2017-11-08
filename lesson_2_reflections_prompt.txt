@@ -9,3 +9,7 @@ A:I think that staging is something that keeps the modified files separated from
 Q:How can I use the staging area to make sure you have one commit per logical change?
 
 A:I can see the changes with the git diff --staged, in this way i will have the differences between the files. If I have added a logical change i can commit.
+
+Q:What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A:I think that branches would be helpful when i want to try some features without modify the original project. They can help me keeping separated the files.
