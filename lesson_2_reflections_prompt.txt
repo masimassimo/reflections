@@ -17,3 +17,11 @@ A:I think that branches would be helpful when i want to try some features withou
 Q:How do the diagrams help you visualize the branch structure?
 
 A:I think that with the diagrams i can look to the "history" of the repository, and where the project took othes ways.
+
+Q:What is the result of merging two branches toghether? Why do we represent in the diagram the way we do?
+
+A:The result is that the merged branch will have all the changes made in the two branches in one file. We represent in the diagram the merged path as an unique path, because we need to reach all the parents commits.
+
+Q:What are the pros and the cons of Git's automatic merging vs. always doing merges manually?
+
+A:The pros are that git looks automatically to the changes made in the files by me and others so it looks at all the files and picks the most recent rows for the final file. I don't really see any cons, if I want to find one anyway i can say that git is not a person so it can't make a decision or think what is good and what is bad inside the code. But it is build in this way, so i can't see any cons.
