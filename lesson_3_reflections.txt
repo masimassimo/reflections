@@ -2,3 +2,7 @@ Q:When would you want to use a remote repository rather than keeping all your wo
 
 A:I think that i would use a remote repository when i want to share my files on the web. I can use the remote repository also like a cloud,
 to have access at my file from any computer.
+
+Q:Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+A:Because i want to upload the files when i made a set of significative changes
