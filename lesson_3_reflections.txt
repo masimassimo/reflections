@@ -6,3 +6,7 @@ to have access at my file from any computer.
 Q:Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 A:Because i want to upload the files when i made a set of significative changes
+
+Q:Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A:The forks are copy of the repository on github used to have a mine version without touch the original; clones are copies of a repository on github on my local computer; branches are a copy of my local repository used to make alternative projects or experiment without affect original files.
