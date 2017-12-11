@@ -18,3 +18,7 @@ A:The benefit is that i have a syncronized version of the changes that anyone co
 Q:How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 A:I think it would be harder, because if i don't use this or a similar system i'll have to do manually all the work.
+
+Q:When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+A:The benefits to use a separate branch comes out when you want to develop new features without affect the original code, and keep a reliable version on github. I can make changes directly on the master branch when I'm debugging the code to remove the errors.
