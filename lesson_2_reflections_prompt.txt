@@ -25,3 +25,11 @@ A:The result is that the merged branch will have all the changes made in the two
 Q:What are the pros and the cons of Git's automatic merging vs. always doing merges manually?
 
 A:The pros are that git looks automatically to the changes made in the files by me and others so it looks at all the files and picks the most recent rows for the final file. I don't really see any cons, if I want to find one anyway i can say that git is not a person so it can't make a decision or think what is good and what is bad inside the code. But it is build in this way, so i can't see any cons.
+
+Q:Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A:Forks are different implementations of the same project on github be made by another user, so i will use them if I want to modify someone project; clones are the copies of a remote repository on my computer they are the downloaded version of the projects; Branches are different implementation of the project, created to preserve the original code for security, reliabity or relase reasons.
+
+Q:What is the benefit of having a copy of the last known state of the remote stored locally?
+
+A:The benefit is that i know what are the newest version of the project.
